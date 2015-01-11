@@ -1,31 +1,4 @@
-# Gbtestee
+# gbtestee_failure
 
-TODO: Write a gem description
+Missing Gemfile/Gemfile.lock
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'gbtestee'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install gbtestee
-
-## Usage
-
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it ( https://github.com/[my-github-username]/gbtestee/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
